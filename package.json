@@ -1,0 +1,11 @@
+{
+  "name": "ciaonpm",
+  "version": "1.0.0",
+  "description": "Ciao npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Manjunath",
+  "license": "ISC"
+}
